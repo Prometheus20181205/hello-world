@@ -1,2 +1,3 @@
 # hello-world
-第一次在GitHub创建仓库
+create repository first
+I write something here!
